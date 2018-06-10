@@ -87,5 +87,5 @@ Assembly-CSharp.csproj
 
 .vscode
 
-./cocos2d
-./CMakeLists.txt
+cocos2d
+CMakeLists.txt
